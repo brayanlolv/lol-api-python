@@ -1,0 +1,20 @@
+[
+    {
+        "name": "no have secret",
+        "champ": "master yi",
+        "champ_games": 153.0,
+        "total_wins": 136,
+        "total_losses": 50,
+        "total_games": 186,
+        "pdl": 1165
+    },
+    {
+        "name": "national anthem",
+        "champ": "lux",
+        "champ_games": 115.0,
+        "total_wins": 100,
+        "total_losses": 70,
+        "total_games": 170,
+        "pdl": 943
+    }
+]
